@@ -10,16 +10,16 @@
   "orientation": "portrait",
   "scope": "./",
   "lang": "bn",
-  "categories": ["lifestyle", "education", "entertainment"],
+  "categories": ["lifestyle", "education"],
   "icons": [
     {
-      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20512%20512%27%3E%3Crect%20width%3D%27512%27%20height%3D%27512%27%20fill%3D%27%236200ea%27%20rx%3D%27100%27%2F%3E%3Ctext%20x%3D%2750%25%27%20y%3D%2750%25%27%20font-size%3D%27300%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20dominant-baseline%3D%27central%27%3E%E2%9D%9D%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjEwMCIgZmlsbD0iIzYyMDBlYSIvPjxwYXRoIGQ9Ik0xMzYuOCAyODhjMC01Ny4yIDM3LjgtMTAwLjIgODguNi0xMTYuNmwxNC4yIDQ2LjhjLTI2LjYgOC42LTQzLjIgMjcuNi00My4yIDUzLjZ2MTIuMmg1Ny40djEwNi44SDEzNi44VjI4OHptMTUyLjIgMGMwLTU3LjIgMzcuOC0xMDAuMiA4OC42LTExNi42bDE0LjIgNDYuOGMtMjYuNiA4LjYtNDMuMiAyNy42LTQzLjIgNTMuNnYxMi4yaDU3LjR2MTA2LjhINDI2VjI4OHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+",
       "sizes": "192x192",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20512%20512%27%3E%3Crect%20width%3D%27512%27%20height%3D%27512%27%20fill%3D%27%236200ea%27%20rx%3D%27100%27%2F%3E%3Ctext%20x%3D%2750%25%27%20y%3D%2750%25%27%20font-size%3D%27300%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20dominant-baseline%3D%27central%27%3E%E2%9D%9D%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjEwMCIgZmlsbD0iIzYyMDBlYSIvPjxwYXRoIGQ9Ik0xMzYuOCAyODhjMC01Ny4yIDM3LjgtMTAwLjIgODguNi0xMTYuNmwxNC4yIDQ2LjhjLTI2LjYgOC42LTQzLjIgMjcuNi00My4yIDUzLjZ2MTIuMmg1Ny40djEwNi44SDEzNi44VjI4OHptMTUyLjIgMGMwLTU3LjIgMzcuOC0xMDAuMiA4OC42LTExNi42bDE0LjIgNDYuOGMtMjYuNiA4LjYtNDMuMiAyNy42LTQzLjIgNTMuNnYxMi4yaDU3LjR2MTA2LjhINDI2VjI4OHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "maskable"
@@ -27,14 +27,14 @@
   ],
   "screenshots": [
     {
-      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%201080%201920%27%3E%3Crect%20width%3D%271080%27%20height%3D%271920%27%20fill%3D%27%23f4f7fc%27%2F%3E%3Crect%20x%3D%27100%27%20y%3D%27400%27%20width%3D%27880%27%20height%3D%27800%27%20rx%3D%2750%27%20fill%3D%27white%27%20stroke%3D%27%23ddd%27%20stroke-width%3D%2710%27%2F%3E%3Ctext%20x%3D%2750%25%27%20y%3D%2750%25%27%20font-size%3D%2780%27%20fill%3D%27%23333%27%20text-anchor%3D%27middle%27%3ENitai%20Studio%20Quotes%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDgwIDE5MjAiPjxyZWN0IHdpZHRoPSIxMDgwIiBoZWlnaHQ9IjE5MjAiIGZpbGw9IiNmNGY3ZmMiLz48cmVjdCB4PSIxMDAiIHk9IjQwMCIgd2lkdGg9Ijg4MCIgaGVpZ2h0PSI4MDAiIHJ4PSI1MCIgZmlsbD0id2hpdGUiIHN0cm9rZT0iI2RkZCIgc3Ryb2tlLXdpZHRoPSIxMCIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LXNpemU9IjgwIiBmaWxsPSIjMzMzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5OaXRhaSBTdHVkaW8gQXBwPC90ZXh0Pjwvc3ZnPg==",
       "sizes": "1080x1920",
       "type": "image/svg+xml",
       "form_factor": "narrow",
-      "label": "Mobile View"
+      "label": "Mobile Home"
     },
     {
-      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%201920%201080%27%3E%3Crect%20width%3D%271920%27%20height%3D%271080%27%20fill%3D%27%23f4f7fc%27%2F%3E%3Ctext%20x%3D%2750%25%27%20y%3D%2750%25%27%20font-size%3D%27100%27%20fill%3D%27%236200ea%27%20text-anchor%3D%27middle%27%3EBani%20Chirontani%20Desktop%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIwIDEwODAiPjxyZWN0IHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjEwODAiIGZpbGw9IiNmNGY3ZmMiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZm9udC1zaXplPSIxMDAiIGZpbGw9IiM2MjAwZWEiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkJhbmkgQ2hpcm9udGFuaTwvdGV4dD48L3N2Zz4=",
       "sizes": "1920x1080",
       "type": "image/svg+xml",
       "form_factor": "wide",
