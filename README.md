@@ -1,15 +1,19 @@
+
 <div align="center">
 
-<!-- LOGO & ANIMATED HEADER SECTION -->
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/128/external-quote-literature-flaticons-lineal-color-flat-icons-2.png" alt="Bani Chirontani Logo" width="100" height="100">
+<!-- LOGO SECTION (FIXED & UNIQUE) -->
+<a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/10609/10609040.png" alt="Bani Chirontani Logo" width="110" height="110">
+</a>
 
-<h1 style="font-size: 3rem; font-weight: bold; background: -webkit-linear-gradient(45deg, #6200ea, #ff00cc); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+<!-- APP TITLE WITH GRADIENT -->
+<h1 style="font-size: 3rem; font-weight: 800; color: #6200EA; margin-top: 0;">
     বাণী চিরন্তনী | Bani Chirontani
 </h1>
 
 <!-- ANIMATED TYPING TEXT (English + Bangla) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hind+Siliguri&weight=600&size=28&duration=3000&pause=1000&color=6200EA&center=true&vCenter=true&width=500&lines=Nitai+Studio+Presents...;5000%2B+Unique+Bengali+Quotes;অনুপ্রেরণা+এবং+ভালোবাসার+উক্তি;100%25+Offline+PWA+App;Made+with+%E2%9D%A4%EF%B8%8F+in+Bangla" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hind+Siliguri&weight=700&size=26&duration=3000&pause=1000&color=6200EA&center=true&vCenter=true&width=500&lines=Nitai+Studio+Presents...;5000%2B+Unique+Bengali+Quotes;অনুপ্রেরণা+এবং+ভালোবাসার+উক্তি;100%25+Offline+PWA+App;Made+with+%E2%9D%A4%EF%B8%8F+in+Bangla" alt="Typing Animation" />
 </a>
 
 <br><br>
@@ -32,7 +36,7 @@
 
 ## 📖 About The App (সম্পর্কে)
 
-**Bani Chirontani** is a modern, lightweight, and offline Progressive Web App (PWA) developed by **Nitai Studio**. It features a collection of over 5000+ unique Bengali quotes designed to inspire, motivate, and touch your heart.
+**Bani Chirontani** is a modern, lightweight, and offline **Progressive Web App (PWA)** developed by **Nitai Studio**. It features a collection of over **5000+ unique Bengali quotes** designed to inspire, motivate, and touch your heart.
 
 **বাণী চিরন্তনী** হলো একটি আধুনিক অফলাইন অ্যাপ। এখানে আপনি পাবেন ৫০০০-এর বেশি বাছাই করা বাংলা উক্তি, যা আপনার মন ভালো করতে এবং অনুপ্রেরণা জোগাতে সাহায্য করবে।
 
@@ -50,7 +54,7 @@
 
 ## 📲 How to Install (কীভাবে ইন্সটল করবেন)
 
-Since this is a **Progressive Web App (PWA)**, you don't need the Play Store or App Store. Install it directly from your browser!
+Since this is a **PWA (Progressive Web App)**, you don't need the Play Store. Install it directly from your browser!
 
 ### 🤖 For Android Users
 1. Open the **[Live Link](https://nitaistudio.github.io/BaniChirontani/)** in **Google Chrome**.
