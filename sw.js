@@ -1,8 +1,11 @@
-const CACHE_NAME = 'nitai-quotes-final-v8';
+
+const CACHE_NAME = 'nitai-quotes-png-v1';
 const ASSETS = [
     './',
     './index.html',
-    './manifest.json'
+    './manifest.json',
+    './icon-192.png',
+    './icon-512.png'
 ];
 
 self.addEventListener('install', (event) => {
