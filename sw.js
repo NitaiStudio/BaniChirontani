@@ -1,19 +1,17 @@
-const CACHE_NAME = 'nitai-quotes-final-v3';
+const CACHE_NAME = 'nitai-quotes-final-v7';
 const ASSETS = [
     './',
     './index.html',
     './manifest.json'
 ];
 
-// Install
 self.addEventListener('install', (event) => {
-    self.skipWaiting(); // Force update immediately
+    self.skipWaiting();
     event.waitUntil(
         caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS))
     );
 });
 
-// Activate
 self.addEventListener('activate', (event) => {
     event.waitUntil(
         caches.keys().then((keys) => {
@@ -24,10 +22,9 @@ self.addEventListener('activate', (event) => {
             );
         })
     );
-    self.clients.claim(); // Control all clients immediately
+    self.clients.claim();
 });
 
-// Fetch
 self.addEventListener('fetch', (event) => {
     event.respondWith(
         caches.match(event.request).then((response) => {

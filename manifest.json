@@ -1,28 +1,44 @@
 {
   "name": "বাণী চিরন্তনী | Nitai Studio",
   "short_name": "বাণী",
-  "id": "./index.html",
+  "description": "৫০০০+ বাংলা উক্তি এবং স্ট্যাটাস এর সেরা অফলাইন কালেকশন। Nitai Studio দ্বারা তৈরি।",
   "start_url": "./index.html",
+  "id": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6200ea",
-  "description": "৫০০০+ বাংলা উক্তি, স্ট্যাটাস এবং অনুপ্রেরণামূলক বাণীর সেরা অফলাইন কালেকশন। Nitai Studio দ্বারা তৈরি।",
   "orientation": "portrait",
-  "categories": ["education", "lifestyle", "books"],
+  "scope": "./",
   "lang": "bn",
-  "dir": "ltr",
+  "categories": ["lifestyle", "education", "entertainment"],
   "icons": [
     {
-      "src": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%236200ea;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%239c47ff;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='512' height='512' rx='0' fill='url(%23grad)' /%3E%3Cpath d='M136.8 288c0-57.2 37.8-100.2 88.6-116.6l14.2 46.8c-26.6 8.6-43.2 27.6-43.2 53.6v12.2h57.4v106.8H136.8V288zm152.2 0c0-57.2 37.8-100.2 88.6-116.6l14.2 46.8c-26.6 8.6-43.2 27.6-43.2 53.6v12.2H406v106.8H289V288z' fill='white'/%3E%3C/svg%3E",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20512%20512%27%3E%3Crect%20width%3D%27512%27%20height%3D%27512%27%20fill%3D%27%236200ea%27%20rx%3D%27100%27%2F%3E%3Ctext%20x%3D%2750%25%27%20y%3D%2750%25%27%20font-size%3D%27300%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20dominant-baseline%3D%27central%27%3E%E2%9D%9D%3C%2Ftext%3E%3C%2Fsvg%3E",
       "sizes": "192x192",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%236200ea;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%239c47ff;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='512' height='512' rx='0' fill='url(%23grad)' /%3E%3Cpath d='M136.8 288c0-57.2 37.8-100.2 88.6-116.6l14.2 46.8c-26.6 8.6-43.2 27.6-43.2 53.6v12.2h57.4v106.8H136.8V288zm152.2 0c0-57.2 37.8-100.2 88.6-116.6l14.2 46.8c-26.6 8.6-43.2 27.6-43.2 53.6v12.2H406v106.8H289V288z' fill='white'/%3E%3C/svg%3E",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20512%20512%27%3E%3Crect%20width%3D%27512%27%20height%3D%27512%27%20fill%3D%27%236200ea%27%20rx%3D%27100%27%2F%3E%3Ctext%20x%3D%2750%25%27%20y%3D%2750%25%27%20font-size%3D%27300%27%20fill%3D%27white%27%20text-anchor%3D%27middle%27%20dominant-baseline%3D%27central%27%3E%E2%9D%9D%3C%2Ftext%3E%3C%2Fsvg%3E",
       "sizes": "512x512",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%201080%201920%27%3E%3Crect%20width%3D%271080%27%20height%3D%271920%27%20fill%3D%27%23f4f7fc%27%2F%3E%3Crect%20x%3D%27100%27%20y%3D%27400%27%20width%3D%27880%27%20height%3D%27800%27%20rx%3D%2750%27%20fill%3D%27white%27%20stroke%3D%27%23ddd%27%20stroke-width%3D%2710%27%2F%3E%3Ctext%20x%3D%2750%25%27%20y%3D%2750%25%27%20font-size%3D%2780%27%20fill%3D%27%23333%27%20text-anchor%3D%27middle%27%3ENitai%20Studio%20Quotes%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "sizes": "1080x1920",
+      "type": "image/svg+xml",
+      "form_factor": "narrow",
+      "label": "Mobile View"
+    },
+    {
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%201920%201080%27%3E%3Crect%20width%3D%271920%27%20height%3D%271080%27%20fill%3D%27%23f4f7fc%27%2F%3E%3Ctext%20x%3D%2750%25%27%20y%3D%2750%25%27%20font-size%3D%27100%27%20fill%3D%27%236200ea%27%20text-anchor%3D%27middle%27%3EBani%20Chirontani%20Desktop%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "sizes": "1920x1080",
+      "type": "image/svg+xml",
+      "form_factor": "wide",
+      "label": "Desktop View"
     }
   ]
 }
